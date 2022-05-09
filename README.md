@@ -1,3 +1,4 @@
 # Java-Revisit
 
-This repo I created to revise and practice Java.
+I created this repo to revise and practice Java.
+Adding data structures and algorithms also.
